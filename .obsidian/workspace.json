@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0677f0c52ee1931b",
+        "id": "16c27f3f88ff2939",
         "type": "tabs",
         "children": [
           {
-            "id": "593b7054b8b789db",
+            "id": "bd32e2cd78f21d70",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01-Projects/Leetcode-Practice/01. Array/01. Two Pointer/01. Easy/Remove Duplicates from Sorted Array.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Remove Duplicates from Sorted Array"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:literature",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,108 +78,89 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "9ad07950f8505516",
     "type": "split",
     "children": [
       {
-        "id": "e0f63e70ebae78b4",
+        "id": "0d8d4a4da8e95792",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
-            "id": "32ddc3e904c756c6",
+            "id": "a4dc91b95108e997",
             "type": "leaf",
             "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "5f7cdae50d297f36",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
           {
-            "id": "b5a524ebc4da5134",
+            "id": "4388026fda14fb7e",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
-            }
-          },
-          {
-            "id": "f095b29fb87066e3",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "acdd3796b80ca993",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 323.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "templater-obsidian:Templater": false,
-      "iconic:Open rulebook": false,
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "iconic:Open rulebook": false
     }
   },
-  "active": "3380d3f39e5b6380",
+  "active": "bd32e2cd78f21d70",
   "lastOpenFiles": [
-    "00-Inbox/Untitled",
-    "01-Projects/Leetcode-Practice/01. Array/01. Two Pointer/01. Easy/00. MOC.md",
-    "01-Projects/Leetcode-Practice/01. Array/01. Two Pointer/02. Medium/00. MOC.md",
+    "01-Projects/Leetcode-Practice/01. Array/01. Two Pointer/01. Easy/Remove Duplicates from Sorted Array.md",
+    "01-Projects/Leetcode-Practice/01. Array/01. Two Pointer/01. Easy/Remove Duplicates from Sorted Array - Drawing.md",
+    "01-Projects/Leetcode-Practice/01. Array/01. Two Pointer/01. Easy/00. Two Pointer Easy.md",
+    "01-Projects/Leetcode-Practice/01. Array/01. Two Pointer/03. Hard/00. Two Pointer Hard.md",
+    "01-Projects/Leetcode-Practice/01. Array/01. Two Pointer/02. Medium/00. Two Pointer Medium.md",
+    "03-Resources/Zettels/20250719 - Two Pointer.md",
+    "03-Resources/Literature Notes/Blogs/Blog - The Two-Pointer Technique, A Powerful Tool for Solving Array and String Problems.md",
+    "Templates/Resources/Zettel/Template Permanent Notes.md",
+    "03-Resources/Zettels/Untitled",
+    "Templates/Resources/Literature Notes/Template Literature Notes.md",
     "Flow.md",
+    "Attachment/two pointer.png",
+    "Attachment",
+    "03-Resources/Debug Notes",
+    "03-Resources/Literature Notes/Videos",
+    "03-Resources/Literature Notes/Docs",
+    "03-Resources/Literature Notes/Blogs",
+    "03-Resources/Literature Notes/Books",
+    "03-Resources/Zettels",
+    "03-Resources/Literature Notes",
+    "00-Inbox/Untitled",
     "Templates/Inbox.md",
     "Untitled.md",
     "Templates/Resources/Literature Notes/Untitled.md",
-    "Templates/Resources/Literature Notes",
-    "Templates/Resources",
-    "03-Resources/Literature Notes",
     "Catatan Riset Terkait.md"
   ]
 }

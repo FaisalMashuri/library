@@ -1,9 +1,11 @@
 ---
-title: "<title>"
+title: <title>
 type: literature-note
-source: "<blog | book | video | docs>"
-created: <% tp.date.now("YYYY-MM-DD") %>
-tags: [literature, <topic>]
+source: <blog | book | video | docs>
+created: 
+tags:
+  - literature
+  - <topic>
 ---
 
 # 📘 <title>

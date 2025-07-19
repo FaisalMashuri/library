@@ -4,7 +4,7 @@ type: zettel
 created: <% tp.date.now("YYYY-MM-DD") %>
 tags: [zettel, <kategori>]
 ---
-
+O(n²)
 # 💡 <topik>
 
 ## 🧠 Insight Utama

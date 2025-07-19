@@ -1,35 +1,35 @@
 {
   "styles": {
     "00-Inbox": {
-      "backgroundColor": "#e0c39d",
+      "backgroundColor": "#819a91",
       "applyToSubfolders": false,
       "applyToFiles": false,
       "isBold": true,
       "textColor": "#fffafa"
     },
     "01-Projects": {
-      "backgroundColor": "#67cb8e",
+      "backgroundColor": "#bf9264",
       "isBold": true,
       "textColor": "#ffffff",
       "applyToSubfolders": false,
       "applyToFiles": false
     },
     "02-Areas": {
-      "backgroundColor": "#67a0de",
+      "backgroundColor": "#555879",
       "textColor": "#f2eded",
       "applyToSubfolders": false,
       "applyToFiles": false,
       "isBold": true
     },
     "03-Resources": {
-      "backgroundColor": "#77d2d1",
+      "backgroundColor": "#604652",
       "isBold": true,
       "textColor": "#ffffff",
       "applyToSubfolders": false,
       "applyToFiles": false
     },
     "04-Archives": {
-      "backgroundColor": "#a690e8",
+      "backgroundColor": "#b5828c",
       "textColor": "#f5f0f0",
       "isBold": true,
       "applyToSubfolders": false,
@@ -43,7 +43,7 @@
       "applyToFiles": false
     },
     "Templates": {
-      "backgroundColor": "#e7a462",
+      "backgroundColor": "#e16a54",
       "textColor": "#fffafa",
       "isBold": true,
       "applyToSubfolders": false,

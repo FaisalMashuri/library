@@ -3,5 +3,7 @@
   "templater-obsidian",
   "highlightr-plugin",
   "iconic",
-  "color-folders-files"
+  "color-folders-files",
+  "heatmap-calendar",
+  "calendar"
 ]
