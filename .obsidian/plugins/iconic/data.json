@@ -1,0 +1,78 @@
+{
+  "biggerIcons": "mobile",
+  "clickableIcons": "desktop",
+  "showAllFileIcons": false,
+  "showAllFolderIcons": false,
+  "minimalFolderIcons": true,
+  "showMarkdownTabIcons": true,
+  "showMenuActions": true,
+  "showQuickSwitcherIcons": true,
+  "showItemName": "desktop",
+  "biggerSearchResults": "mobile",
+  "maxSearchResults": 50,
+  "colorPicker1": "list",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "rememberDeletedItems": false,
+  "dialogState": {
+    "iconMode": true,
+    "emojiMode": false,
+    "rulePage": "file"
+  },
+  "appIcons": {},
+  "tabIcons": {},
+  "fileIcons": {
+    "00-Inbox": {
+      "icon": "lucide-inbox",
+      "unsynced": [
+        "259fd972678b4d60"
+      ]
+    },
+    "01-Projects": {
+      "icon": "lucide-chart-network",
+      "unsynced": [
+        "259fd972678b4d60"
+      ]
+    },
+    "02-Areas": {
+      "icon": "lucide-square-terminal",
+      "unsynced": [
+        "259fd972678b4d60"
+      ]
+    },
+    "03-Resources": {
+      "icon": "lucide-notebook-tabs",
+      "unsynced": [
+        "259fd972678b4d60"
+      ]
+    },
+    "04-Archives": {
+      "icon": "lucide-archive",
+      "unsynced": [
+        "259fd972678b4d60"
+      ],
+      "color": "gray"
+    },
+    "Attachments": {
+      "icon": "lucide-file",
+      "unsynced": [
+        "259fd972678b4d60"
+      ]
+    },
+    "Templates": {
+      "icon": "lucide-layout-template",
+      "unsynced": [
+        "259fd972678b4d60"
+      ]
+    }
+  },
+  "bookmarkIcons": {},
+  "tagIcons": {},
+  "propertyIcons": {},
+  "ribbonIcons": {},
+  "fileRules": [],
+  "folderRules": []
+}

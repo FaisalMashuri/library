@@ -1,0 +1,18 @@
+/* Tambahkan ini ke folder .obsidian/snippets/ nama_snippet.css lalu aktifkan */
+
+.nav-folder-children .nav-folder.is-expanded {
+  --folder-color: #ffdddd; /* Ganti dengan warna yang kamu suka */
+}
+
+.nav-folder-children .nav-folder.is-expanded .tree-item-self {
+  background-color: #ffdddd !important;
+  font-weight: bold;
+  color: #cc0000 !important;
+}
+
+/* Untuk juga mewarnai subfolder dari folder yang sedang expanded */
+.nav-folder-children .nav-folder.is-expanded .nav-folder-children .tree-item-self {
+  background-color: #ffdddd !important;
+  font-weight: normal;
+  color: #990000 !important;
+}

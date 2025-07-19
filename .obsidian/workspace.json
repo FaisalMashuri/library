@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "b480c2eb13ad87af",
+    "type": "split",
+    "children": [
+      {
+        "id": "0677f0c52ee1931b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "593b7054b8b789db",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f901dfabda90f8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a11434011b19431",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3380d3f39e5b6380",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "59e2ca69aec4bfce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bfbe01fc86e0fdbe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9ad07950f8505516",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0f63e70ebae78b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32ddc3e904c756c6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "b5a524ebc4da5134",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "f095b29fb87066e3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "acdd3796b80ca993",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "iconic:Open rulebook": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3380d3f39e5b6380",
+  "lastOpenFiles": [
+    "00-Inbox/Untitled",
+    "01-Projects/Leetcode-Practice/01. Array/01. Two Pointer/01. Easy/00. MOC.md",
+    "01-Projects/Leetcode-Practice/01. Array/01. Two Pointer/02. Medium/00. MOC.md",
+    "Flow.md",
+    "Templates/Inbox.md",
+    "Untitled.md",
+    "Templates/Resources/Literature Notes/Untitled.md",
+    "Templates/Resources/Literature Notes",
+    "Templates/Resources",
+    "03-Resources/Literature Notes",
+    "Catatan Riset Terkait.md"
+  ]
+}

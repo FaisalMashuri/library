@@ -1,0 +1,55 @@
+{
+  "styles": {
+    "00-Inbox": {
+      "backgroundColor": "#e0c39d",
+      "applyToSubfolders": false,
+      "applyToFiles": false,
+      "isBold": true,
+      "textColor": "#fffafa"
+    },
+    "01-Projects": {
+      "backgroundColor": "#67cb8e",
+      "isBold": true,
+      "textColor": "#ffffff",
+      "applyToSubfolders": false,
+      "applyToFiles": false
+    },
+    "02-Areas": {
+      "backgroundColor": "#67a0de",
+      "textColor": "#f2eded",
+      "applyToSubfolders": false,
+      "applyToFiles": false,
+      "isBold": true
+    },
+    "03-Resources": {
+      "backgroundColor": "#77d2d1",
+      "isBold": true,
+      "textColor": "#ffffff",
+      "applyToSubfolders": false,
+      "applyToFiles": false
+    },
+    "04-Archives": {
+      "backgroundColor": "#a690e8",
+      "textColor": "#f5f0f0",
+      "isBold": true,
+      "applyToSubfolders": false,
+      "applyToFiles": false
+    },
+    "Attachments": {
+      "backgroundColor": "#de9cbc",
+      "textColor": "#f7f3f3",
+      "isBold": true,
+      "applyToSubfolders": false,
+      "applyToFiles": false
+    },
+    "Templates": {
+      "backgroundColor": "#e7a462",
+      "textColor": "#fffafa",
+      "isBold": true,
+      "applyToSubfolders": false,
+      "applyToFiles": false
+    }
+  },
+  "presets": {},
+  "presetOrder": []
+}
