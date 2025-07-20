@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Projects/Leetcode-Practice/01. Array/01. Two Pointer/01. Easy/Remove Duplicates from Sorted Array.md",
+                "file": "01-Projects/Leetcode-Practice/01. Array/01. Two Pointer/01. Easy/Remove Element.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Remove Duplicates from Sorted Array"
+              "title": "Remove Element"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 290.5
   },
   "right": {
     "id": "9ad07950f8505516",
@@ -97,6 +97,69 @@
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
+            }
+          },
+          {
+            "id": "7cef9905cb59cd7b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01-Projects/Leetcode-Practice/01. Array/01. Two Pointer/01. Easy/Remove Element.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Remove Element"
+            }
+          },
+          {
+            "id": "71b5c585d5bb12a9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01-Projects/Leetcode-Practice/01. Array/01. Two Pointer/01. Easy/Remove Element.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Remove Element"
+            }
+          },
+          {
+            "id": "7c38e2153f9c27af",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "04831e73a2497ca6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01-Projects/Leetcode-Practice/01. Array/01. Two Pointer/01. Easy/Remove Element.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Remove Element"
             }
           }
         ]
@@ -120,7 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 352.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -137,9 +200,11 @@
   },
   "active": "bd32e2cd78f21d70",
   "lastOpenFiles": [
+    "01-Projects/Leetcode-Practice/01. Array/01. Two Pointer/01. Easy/Remove Element - Darawing.md",
+    "01-Projects/Leetcode-Practice/01. Array/01. Two Pointer/01. Easy/Remove Element.md",
     "01-Projects/Leetcode-Practice/01. Array/01. Two Pointer/01. Easy/Remove Duplicates from Sorted Array.md",
-    "01-Projects/Leetcode-Practice/01. Array/01. Two Pointer/01. Easy/Remove Duplicates from Sorted Array - Drawing.md",
     "01-Projects/Leetcode-Practice/01. Array/01. Two Pointer/01. Easy/00. Two Pointer Easy.md",
+    "01-Projects/Leetcode-Practice/01. Array/01. Two Pointer/01. Easy/Remove Duplicates from Sorted Array - Drawing.md",
     "01-Projects/Leetcode-Practice/01. Array/01. Two Pointer/03. Hard/00. Two Pointer Hard.md",
     "01-Projects/Leetcode-Practice/01. Array/01. Two Pointer/02. Medium/00. Two Pointer Medium.md",
     "03-Resources/Zettels/20250719 - Two Pointer.md",

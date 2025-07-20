@@ -3,6 +3,7 @@ tags:
   - two-pointer
   - Leetcode
   - Easy
+  - remove-duplicates
 solve date: 2025-07-19
 ---
 # Problem Statement
