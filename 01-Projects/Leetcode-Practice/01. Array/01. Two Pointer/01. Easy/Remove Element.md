@@ -4,6 +4,7 @@ tags:
   - Easy
   - two-pointer
   - remove-elements
+solve date: 2025-07-20
 ---
 # Problem Statement
 Kamu dikasih array `nums` dan sebuah nilai `val`.  
