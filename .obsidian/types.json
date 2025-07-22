@@ -6,6 +6,7 @@
     "created": "date",
     "startDate": "date",
     "endDate": "date",
-    "solve date": "date"
+    "solve date": "date",
+    "solved date": "date"
   }
 }
