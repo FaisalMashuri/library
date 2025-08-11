@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Projects/Leetcode-Practice/01. Array/01. Two Pointer/01. Easy/Intersection of Two Arrays.md",
+                "file": "03-Resources/Open Source/Database/No SQL/Wide Column/ScyllaDB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intersection of Two Arrays"
+              "title": "ScyllaDB"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:literature",
+                "query": "tag:#Leetcode",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -225,7 +225,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 438.5
+    "width": 502.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -242,8 +242,33 @@
   },
   "active": "64bb66a191376f23",
   "lastOpenFiles": [
-    "01-Projects/Leetcode-Practice/01. Array/01. Two Pointer/01. Easy/Intersection of Two Arrays.md",
+    "03-Resources/Open Source/Database/No SQL/Wide Column/ScyllaDB.md",
+    "03-Resources/Open Source/Database/No SQL/Graph Database/Arango.md",
+    "03-Resources/Open Source/Database/Relational/Cockroach.md",
+    "03-Resources/Open Source/Database/No SQL/Wide Column/Cassandra.md",
+    "03-Resources/Open Source/Database/No SQL/Document Store/Mongo.md",
+    "03-Resources/Open Source/Database/No SQL/Document Store/Couch DB.md",
+    "03-Resources/Open Source/Database/No SQL/Key Value/Redis.md",
+    "03-Resources/Open Source/Database/No SQL/Graph Database/Neo4j.md",
+    "03-Resources/Open Source/Database/No SQL/Timeseries/TimescaleDB.md",
+    "03-Resources/Open Source/Database/No SQL/Timeseries/InfluxDB.md",
+    "03-Resources/Open Source/Database/No SQL/Search/ElasticSearch.md",
+    "03-Resources/Open Source/Database/No SQL/Search/OpenSearch.md",
+    "03-Resources/Open Source/Database/No SQL/Search/Untitled",
+    "03-Resources/Open Source/Database/No SQL/Search",
+    "03-Resources/Open Source/Database/No SQL/Timeseries",
+    "03-Resources/Open Source/Database/No SQL/Graph Database",
+    "03-Resources/Open Source/Database/No SQL/Wide Column",
+    "03-Resources/Open Source/Database/No SQL/Key Value/Untitled",
+    "03-Resources/Open Source/Database/No SQL/Key Value",
+    "03-Resources/Open Source/Database/No SQL/Document Store",
+    "03-Resources/Open Source/Database/Relational/MySQL.md",
+    "03-Resources/Open Source/Database/No SQL",
+    "03-Resources/Open Source/Database/Relational",
+    "03-Resources/Open Source/Database/Relational/PostgreSQL.md",
+    "Templates/Template OpenSource.md",
     "01-Projects/Leetcode-Practice/01. Array/01. Two Pointer/01. Easy/00. Two Pointer Easy.md",
+    "01-Projects/Leetcode-Practice/01. Array/01. Two Pointer/01. Easy/Intersection of Two Arrays.md",
     "01-Projects/Leetcode-Practice/01. Array/01. Two Pointer/01. Easy/Merge Sorted Array.md",
     "01-Projects/Leetcode-Practice/01. Array/01. Two Pointer/01. Easy/Move Zeros.md",
     "01-Projects/Leetcode-Practice/01. Array/01. Two Pointer/01. Easy/Happy Number.md",
@@ -253,25 +278,6 @@
     "01-Projects/Leetcode-Practice/01. Array/01. Two Pointer/01. Easy/Remove Duplicates from Sorted Array - Drawing.md",
     "01-Projects/Leetcode-Practice/01. Array/01. Two Pointer/01. Easy/Remove Element - Darawing.md",
     "01-Projects/Leetcode-Practice/01. Array/01. Two Pointer/03. Hard/00. Two Pointer Hard.md",
-    "01-Projects/Leetcode-Practice/01. Array/01. Two Pointer/02. Medium/00. Two Pointer Medium.md",
-    "03-Resources/Zettels/20250719 - Two Pointer.md",
-    "Templates/Resources/Zettel/Template Permanent Notes.md",
-    "03-Resources/Zettels/Untitled",
-    "Templates/Resources/Literature Notes/Template Literature Notes.md",
-    "Flow.md",
-    "Attachment/two pointer.png",
-    "Attachment",
-    "03-Resources/Debug Notes",
-    "03-Resources/Literature Notes/Videos",
-    "03-Resources/Literature Notes/Docs",
-    "03-Resources/Literature Notes/Blogs",
-    "03-Resources/Literature Notes/Books",
-    "03-Resources/Zettels",
-    "03-Resources/Literature Notes",
-    "00-Inbox/Untitled",
-    "Templates/Inbox.md",
-    "Untitled.md",
-    "Templates/Resources/Literature Notes/Untitled.md",
-    "Catatan Riset Terkait.md"
+    "Attachment/two pointer.png"
   ]
 }
